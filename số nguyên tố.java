@@ -11,6 +11,8 @@ public class PrimeNumberCheck {
         }
     }
 
+// da sua
+
     public static boolean isPrime(int num) {
         if (num <= 1) {
             return false;
